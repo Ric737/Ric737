@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ric737/Ric737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Nihal Chammayil 👋
+### Hi there, I'm Nihal Chammayil 👋
 
 I'm on a captivating journey to become a cybersecurity professional. While safeguarding the digital realm as my career,  I also weave my creative flair into the world of development. My passion for both security and creative problem-solving drives me to excel in this dynamic field 💫
 
