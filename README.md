@@ -24,5 +24,5 @@ This section is currently under construction ⚙️🛠️. Check back later for
 ## Get in touch
 
 - 📫 Email me at [lahin.2023@gmail.com](mailto:lahin.2023@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nihal-c-ric737/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nihal-chammayil/)
 
